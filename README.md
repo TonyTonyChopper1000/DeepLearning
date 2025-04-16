@@ -1,5 +1,9 @@
 # 🧠 Deep Learning from Scratch
 
+
+<img src="https://static.vecteezy.com/system/resources/previews/009/373/463/non_2x/deep-learning-word-concepts-dark-blue-banner-neural-network-machine-learning-infographics-with-icons-on-color-background-isolated-typography-illustration-with-text-vector.jpg" alt="deeplearning banner" />
+
+
 A comprehensive implementation of deep learning algorithms using only NumPy. This repository is designed for those who want to understand the inner workings of neural networks without the abstraction of deep learning frameworks.
 
 ## 🎯 Motivation
@@ -67,7 +71,7 @@ The repository is organized to follow the natural progression of deep learning c
 37. **Attention is all you need**
 38. **Transformers**
 39. **BERT**
-40. **Solving the Open Kaggle Problems**
+40. **Solving the Kaggle Problems**
 
 Each module contains:
 - A detailed explanation of the concept with mathematical formulations
