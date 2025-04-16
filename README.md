@@ -16,24 +16,58 @@ This repository strips away all abstractions and implements neural networks from
 
 The repository is organized to follow the natural progression of deep learning concepts:
 
-1. **Foundations**
-   - Perceptron
-   - Activation Functions
-   - Loss Functions
+## Phase 1 
 
-2. **Optimization**
-   - Gradient Descent
-   - Backpropagation
+1. **Perceptron**
+2. **Weight Initialization Methods**
+3. **Activation Functions**
+4. **Loss Functions**
+5. **Gradient Decent and it's Variations**
+6. **Gloab Minima and Local Minima**
+7. **Back Propagation**
+8. **Optimizers**
+9. **Multi Layer Perceptron**
+10. **Tensorflow VS Pytorch**
+11. **Examples on Regression Problems using Tensorflow/Pytorch**
+12. **Examples on Classification Problems using Tensorflow/Pytorch**
 
-3. **Neural Networks**
-   - Multilayer Perceptron
-   - Forward and Backward Propagation
+## Phase 2
 
-4. **Advanced Topics**
-   - Convolutional Neural Networks
-   - Recurrent Neural Networks
-   - Regularization Techniques
-   - Optimization Algorithms
+13. **What is Convolution Neural Networks**
+14. **Different Layers in CNN**
+15. **Data Augmentation**
+16. **Example Problems on Convolution Neural Networks**
+17. **Transfer Learning**
+18. **CNN Variations(Which Includes LeNet-5, AlexNet, VGGNet, GoogleNet, ResNet, DenseNet, SqueezeNet, MobileNet, EfficentNet )**
+19. **R-CNN Family**
+20. **YOLO Family**
+21. **SSD (Single Shot Detector)**
+
+## Phase 3
+
+22. **What is NLP? (What is Natural Language Processing)**
+23. **Tokenization**
+24. **Stemming**
+25. **Lemmatization**
+26. **Bag of Words**
+27. **TF-IDF**
+28. **Example Problems on NLP**
+
+
+## Phase 4
+
+29. **What is RNN?**
+30. **Forward and Backward Propagation in RNN**
+31. **Example Problems on RNN**
+32. **LSTM!**
+33. **Word Embeddings**
+34. **Bi-Directional RNN**
+35. **Encoder and Decoder**
+36. **Auto Encoder and it's Variations**
+37. **Attention is all you need**
+38. **Transformers**
+39. **BERT**
+40. **Solving the Open Kaggle Problems**
 
 Each module contains:
 - A detailed explanation of the concept with mathematical formulations
@@ -43,7 +77,7 @@ Each module contains:
 
 ## 🛠️ Prerequisites
 
-- Python 3.7+
+- Python 3.9+
 - NumPy
 - Matplotlib (for visualizations)
 - Jupyter Notebook (for running the examples)
